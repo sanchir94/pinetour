@@ -1,0 +1,356 @@
+li {
+  line-height: 27px;
+}
+
+ul {
+  height: 200px;
+}
+
+.d1 {
+  background-color: black;
+  width: 36px;
+  height: 36px;
+  padding: 15px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: lightgreen;
+}
+
+.pricing-card {
+  background-color: white;
+  width: 205;
+  border-radius: 24px;
+  border: 2px solid white;
+  padding: 40px;
+}
+
+.pricing-card:hover {
+  border: 2px solid green;
+}
+
+.buttom-order {
+  background-color: #18ba51;
+  width: 130px;
+  height: 44px;
+  color: #ffffff;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  border: 0;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 100px;
+}
+
+.logoniih {
+  background-color: #303030;
+  width: 167px;
+  height: 44px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+  margin: 0px;
+}
+
+.box {
+  width: 284px;
+  height: 400px;
+  background-image: url("zurag.png");
+  background-size: cover;
+  background-position: center;
+  transition: width 3s, height 3s;
+  border-radius: 12px;
+}
+
+.box:hover {
+  width: 252px;
+  height: 370px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 284px;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("zurag.png");
+  filter: blur(8px);
+  border-radius: 12px;
+}
+
+.relative {
+  position: relative;
+  top: 500px;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.konbox {
+  width: 284px;
+  height: 400px;
+  position: relative;
+}
+
+* {
+  margin: 0px;
+}
+
+.box2 {
+  width: 284px;
+  height: 400px;
+  background-image: url("zurag2.png");
+  background-size: cover;
+  background-position: center;
+  transition: width 3s, height 3s;
+  border-radius: 12px;
+}
+
+.box2:hover {
+  width: 252px;
+  height: 370px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container2 {
+  width: 284px;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("zurag2.png");
+  filter: blur(8px);
+  border-radius: 12px;
+}
+
+.relative {
+  position: relative;
+  top: 500px;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.konbox2 {
+  width: 284px;
+  height: 400px;
+  position: relative;
+}
+
+* {
+  margin: 0px;
+}
+
+.box3 {
+  width: 284px;
+  height: 400px;
+  background-image: url("zurag3.png");
+  background-size: cover;
+  background-position: center;
+  transition: width 3s, height 3s;
+  border-radius: 12px;
+}
+
+.box3:hover {
+  width: 252px;
+  height: 370px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container3 {
+  width: 284px;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("zurag3.png");
+  filter: blur(8px);
+  border-radius: 12px;
+}
+
+.relative {
+  position: relative;
+  top: 500px;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.konbox3 {
+  width: 284px;
+  height: 400px;
+  position: relative;
+}
+
+* {
+  margin: 0px;
+}
+
+.box4 {
+  width: 284px;
+  height: 400px;
+  background-image: url("zurag4.png");
+  background-size: cover;
+  background-position: center;
+  transition: width 3s, height 3s;
+  border-radius: 12px;
+}
+
+.box4:hover {
+  width: 252px;
+  height: 370px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container4 {
+  width: 284px;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("zurag4.png");
+  filter: blur(8px);
+  border-radius: 12px;
+}
+
+.relative {
+  position: relative;
+  top: 500px;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.konbox4 {
+  width: 284px;
+  height: 400px;
+  position: relative;
+}
+
+.zurag1-hover {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 692px;
+  height: 845px;
+  border-radius: 23px;
+  opacity: 0;
+  z-index: 1;
+  transition: all ease 0.4s;
+}
+
+.zurag2-hover {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 692px;
+  height: 845px;
+  border-radius: 23px;
+  opacity: 0;
+  z-index: 1;
+  transition: all ease 0.4s;
+}
+.zurag3-hover {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 692px;
+  height: 845px;
+  border-radius: 23px;
+  opacity: 0;
+  z-index: 1;
+  transition: all ease 0.4s;
+}
+.zurag4-hover {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 692px;
+  height: 845px;
+  border-radius: 23px;
+  opacity: 0;
+  z-index: 1;
+  transition: all ease 0.4s;
+}
+.zurag5-hover {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 692px;
+  height: 845px;
+  border-radius: 23px;
+  opacity: 0;
+  z-index: 1;
+  transition: all ease 0.4s;
+}
+.test1:hover .zurag1-hover {
+  opacity: 1;
+}
+.test2:hover .zurag2-hover {
+  opacity: 1;
+}
+.test3:hover .zurag3-hover {
+  opacity: 1;
+}
+.test4:hover .zurag4-hover {
+  opacity: 1;
+}
+.test5:hover .zurag5-hover {
+  opacity: 1;
+}
+.test6:hover .zurag1-hover {
+  opacity: 1;
+}
